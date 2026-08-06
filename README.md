@@ -8,6 +8,7 @@ A collection of LeetCode questions that I've attempted.
 | ------- |
 | [0031-next-permutation](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions that I've attempted.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
