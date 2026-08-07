@@ -15,12 +15,14 @@ A collection of LeetCode questions that I've attempted.
 | [0088-merge-sorted-array](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,4 +61,20 @@ A collection of LeetCode questions that I've attempted.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
