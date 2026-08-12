@@ -66,6 +66,7 @@ A collection of LeetCode questions that I've attempted.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions that I've attempted.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
