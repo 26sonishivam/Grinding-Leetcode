@@ -50,6 +50,7 @@ A collection of LeetCode questions that I've attempted.
 | [0169-majority-element](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions that I've attempted.
 | [0169-majority-element](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions that I've attempted.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/26sonishivam/Grinding-Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
